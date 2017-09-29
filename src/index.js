@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = 'Hello, I\'m ready.'
